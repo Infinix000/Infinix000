@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramesh Maity</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
+<imag align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/financial-audit-team-12979714_10656573">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinix000&label=Profile%20views&color=0e75b6&style=flat" alt="infinix000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinix000" alt="infinix000" /></a> </p>
